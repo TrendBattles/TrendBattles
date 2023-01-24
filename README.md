@@ -2,8 +2,8 @@
 
 My name is Trend and I'm really dumb at making websites 
 
-- 🔭 I’m currently working on making some fake counters (which you guys need right now)
-- 🌱 I’m currently learning JavaScript and Node (don't ask me why)
-- 📫 How to reach me: Ask my friend MG first
-- 😄 Pronouns: He/Him or Us(jokes)
+- 🔭 I’m a high school student in Vietnam right now
+- 🌱 I’m currently a competitive programmer and I'm not doing any projects right now.
+- 📫 How to reach me: Trend Battles#7031 (Discord)
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have some friends who are developers and I don't know how to code.
